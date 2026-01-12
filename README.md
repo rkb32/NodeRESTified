@@ -12,7 +12,7 @@
 [![Gravatar](https://img.shields.io/badge/Gravatar-v1.8.2-1C78B0)](https://en.gravatar.com/)
 [![Nodemailer](https://img.shields.io/badge/Nodemailer-v6.9.8-0076C8)](https://nodemailer.com/)
 
-This repository contains a ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) RREST API project that I helped design and build collaboratively. I worked with teammates to plan, implement, and refine the API, applying best practices for scalable and maintainable RESTful service development.
+This repository contains a ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) REST API project that we helped design and build collaboratively. With teammates to plan, implement, and refine the API, applying best practices for scalable and maintainable RESTful service development.
 
 The project covers a range of real‑world backend features including routing, data persistence, validation, and error handling — and represents a core piece of my experience developing robust server‑side applications. It serves as a foundation for future enhancements and full‑stack integrations.
 
